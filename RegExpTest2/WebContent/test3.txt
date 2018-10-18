@@ -1,0 +1,5 @@
+단 id에만
+my_file3_mnu01
+MNU01_FILE3_MY
+퍠턴 ID ="(\W+)_(\W+)_(\W+)"
+변환 id=$3_$2_$1
